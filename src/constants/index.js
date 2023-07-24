@@ -16,15 +16,15 @@ import {
   git,
   figma,
   docker,
-  carrent,
-  jobit,
-  tripguide,
   prompt,
   summarize,
   evara,
   threejs,
   ssmptc,
   brototype,
+  usama,
+  shamil,
+  fahis,
 } from "../assets";
 
 export const navLinks = [
@@ -142,27 +142,21 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "I've never met a web developer who truly cares about their clients' success like Fahiz does.",
+    name: "Usama Varikkottil",
+    image: usama,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Exceeded expectations.Fahiz created an impressive website that perfectly reflects our brand.",
+    name: "Shamil K",
+    image: shamil,
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Reliable and skilled.Fahiz provided a high-quality website on schedule, a pleasure to work with.",
+    name: "Mohammed Fahis",
+    image: fahis,
   },
 ];
 

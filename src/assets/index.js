@@ -26,6 +26,10 @@ import kubernetes from "./tech/kubernetes.png";
 import brototype from "./company/brototype.png";
 import ssmptc from "./company/ssmptc.jpeg";
 
+import usama from "./people/usama.jpeg";
+import shamil from "./people/shamil.jpeg";
+import fahis from "./people/fahis.jpeg";
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -65,4 +69,7 @@ export {
   evara,
   ssmptc,
   brototype,
+  usama,
+  shamil,
+  fahis,
 };
